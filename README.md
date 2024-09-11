@@ -14,7 +14,7 @@ I am passionate about using machine learning to solve real-world problem. With a
 ## Research & Projects
 ### 1. **Preprint: Missing Cell Types in Single-Cell References**
 - **Link**: [Missing Cell Types in Single-Cell References Impact Deconvolution of Bulk Data](https://www.biorxiv.org/content/10.1101/2024.04.25.590992v1.full)
-- **Description**: This paper explores the impact of missing cell types in single-cell reference datasets on the accuracy of bulk data deconvolution methods. Presented at the **Simons Foundation Conference** and **University of Colorado** Research in Progress.
+- **Description**: This paper explores the impact of missing cell types in single-cell reference datasets on the accuracy of bulk data deconvolution methods. 
 
 ### 2. **Conditional VAE for Data Transformation**
 - **Description**: Currently working on developing a **Conditional Variational Autoencoder (VAE)** model for transforming and generating high-dimensional biological datasets.
