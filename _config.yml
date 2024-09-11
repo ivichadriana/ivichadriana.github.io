@@ -1,8 +1,9 @@
 theme: jekyll-theme-cayman
 title: Adriana Ivich
 description: PhD Candidate | Machine Learning Scientist
+
 header_pages:
-  - index.md
+  - README.md
   - projects.md
   - skills.md
   - contact.md
