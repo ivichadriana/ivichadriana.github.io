@@ -2,12 +2,12 @@
 
 ### PhD Candidate | Machine Learning Scientist | Computational Biologist
 
-Welcome to my personal website! I am a PhD candidate in Bioengineering at the University of Colorado, specializing in **machine learning**, **deep learning**, and **computational biology**. My research focuses on applying advanced computational methods to biological data, particularly in genomics and healthcare applications.
+Welcome! I am a PhD candidate in Bioengineering at the University of Colorado, specializing in **machine learning**, **deep learning**, and **computational biology**. My research focuses on applying advanced computational methods to biological data, particularly in genomics and healthcare applications.
 
 ---
 
 ## About Me
-I am passionate about using machine learning to solve real-world problems in biology and medicine. With a background in **neuroscience** and **bioengineering**, I have developed extensive expertise in data analysis, model development, and software engineering. My current research involves developing generative models, like **conditional Variational Autoencoders (VAE)**, to transform and analyze complex biological datasets.
+I am passionate about using machine learning to solve real-world problem. With a background in **neuroscience** and **bioengineering**, I have developed extensive expertise in data analysis, model development, and engineering. My current research involves developing generative models, like **conditional Variational Autoencoders (VAE)**, to transform and analyze complex biological datasets.
 
 ---
 
@@ -29,5 +29,5 @@ I am passionate about using machine learning to solve real-world problems in bio
 ---
 
 ## Contact
-- **Email**: adriana.ivich@cuanschutz.edu
+- **Email**: adriana.ivich@cuanschutz.edu or ivichadriana@gmail.com
 - **LinkedIn**: [linkedin.com/in/adrianaivich](https://linkedin.com/in/adrianaivich)
