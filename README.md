@@ -1,8 +1,8 @@
-# Adriana Ivich
+## Welcome!
 
 ### PhD Candidate | Machine Learning Scientist | Computational Biologist
 
-Welcome! I am a PhD candidate in Bioengineering at the University of Colorado, specializing in **machine learning**, **deep learning**, and **computational biology**. My research focuses on applying advanced computational methods to biological data, particularly in genomics and healthcare applications.
+I am a PhD candidate in Bioengineering at the University of Colorado, specializing in **machine learning**, **deep learning**, and **computational biology**. My research focuses on applying advanced computational methods to biological data, particularly in genomics and healthcare applications.
 
 ---
 
