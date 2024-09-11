@@ -1,5 +1,3 @@
-## Adriana Ivich
-
 ### PhD Candidate | Machine Learning Scientist | Computational Biologist
 
 ## About Me
