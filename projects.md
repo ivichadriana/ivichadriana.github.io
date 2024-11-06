@@ -32,3 +32,5 @@ permalink: /projects/
 ## Explore More:
 - [Skills](/skills/)
 - [Contact](/contact/)
+
+- [Back to home](/index/)
