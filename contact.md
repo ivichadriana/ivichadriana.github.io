@@ -6,5 +6,7 @@ permalink: /contact/
 
 # Contact
 
-- **Email**: adriana.ivich@cuanschutz.edu
+- **Email**:
+ivichadriana@gmail.com
+adriana.ivich@cuanschutz.edu
 - **LinkedIn**: [linkedin.com/in/adrianaivich](https://linkedin.com/in/adrianaivich)
